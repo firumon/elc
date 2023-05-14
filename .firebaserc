@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "election-campaign-0001"
+  },
+  "targets": {
+    "election-campaign-0001": {
+      "hosting": {
+        "elc.web.app": [
+          "election-campaign-0001"
+        ],
+        "ecl": [
+          "ecl"
+        ],
+        "elc": [
+          "elc"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
